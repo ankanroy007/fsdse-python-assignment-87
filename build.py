@@ -8,3 +8,5 @@ def solution(array):
     pandaArray = pd.Series(array)
 
     return pandaArray
+
+solution([2, 4, 6, 8, 10])
